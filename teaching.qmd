@@ -1,0 +1,37 @@
+---
+title: "Teaching"
+---
+
+I teach across applied economics, quantitative methods, and data analysis at both undergraduate and postgraduate level. My approach emphasises real-world application — I want students to leave not just understanding economic theory but knowing how to use it, how to work with data, and how to think critically about evidence and its limitations.
+
+Much of my teaching is built around quantitative literacy. Whether introducing statistics to undergraduates for the first time or teaching advanced survey methodology and R at Masters level, I try to build both technical confidence and the judgement to know when and how to apply different methods. Students who understand the mechanics of a technique are far better placed to interpret, question, and communicate findings — which matters as much in policy and business contexts as in academic research.
+
+## Quantitative Methods & Data Analysis
+
+| Module | Level | Institution |
+|---|---|---|
+| Survey Measurement and Analysis | MSc | University of Stirling |
+| Statistics with R | MSc | University of Stirling |
+| Understanding and Using Statistics | MSc | University of Stirling |
+| Statistics for Economics, Business, and Management | UG | University of Stirling |
+| Quantitative Methods | UG | University of York |
+| Statistics | UG | University of Massachusetts, Amherst |
+
+## Applied and Resource Economics
+
+| Module | Level | Institution |
+|---|---|---|
+| Applied Economics – Health Economics | UG | University of Stirling |
+| Environmental Economics | MSc | University of Stirling |
+| Energy and Resource Economics | UG | University of Stirling |
+| Economics of Environmental Management | UG | University of Manchester |
+| Economic Principles: Microeconomics | UG | University of Manchester |
+| Operational Research | UG | University of Manchester |
+
+## Policy, Markets & Society
+
+| Module | Level | Institution |
+|---|---|---|
+| Energy Markets and Policy | MSc | University of Stirling |
+| Hunger in a Global Economy | UG | University of Massachusetts, Amherst |
+| Small Business Management | UG | University of Massachusetts, Amherst |

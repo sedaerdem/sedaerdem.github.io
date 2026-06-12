@@ -1,0 +1,23 @@
+{
+  "bio.qmd": {
+    "bio.html": "36bef9a7"
+  },
+  "index.qmd": {
+    "index.html": "7247c9f4"
+  },
+  "research.qmd": {
+    "research.html": "0e06f7e8"
+  },
+  "students.qmd": {
+    "students.html": "2e1c9aaa"
+  },
+  "teaching.qmd": {
+    "teaching.html": "227d375b"
+  },
+  "publications.qmd": {
+    "publications.html": "4b28062f"
+  },
+  "phd.qmd": {
+    "phd.html": "10abc27e"
+  }
+}

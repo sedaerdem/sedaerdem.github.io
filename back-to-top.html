@@ -1,0 +1,28 @@
+<button id="back-to-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="Back to top">↑ Top</button>
+<style>
+#back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  font-size: 0.75rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  color: #555;
+  background: white;
+  border: 1px solid #d5d5d5;
+  padding: 0.4rem 0.8rem;
+  border-radius: 2px;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  transition: all 0.15s;
+  z-index: 999;
+}
+#back-to-top:hover { color: #1a1a1a; border-color: #999; }
+</style>
+<script>
+window.addEventListener('scroll', function() {
+  document.getElementById('back-to-top').style.display =
+    window.scrollY > 400 ? 'block' : 'none';
+});
+</script>

@@ -1,0 +1,51 @@
+---
+title: "PhD Supervision"
+---
+
+I welcome enquiries from prospective PhD students interested in any of my research areas. My approach to supervision is hands-on and flexible — I meet students as often as needed rather than on a fixed schedule, and I care as much about their development as researchers as about the thesis itself. I expect students to work hard and engage seriously with their research, and in return I invest genuinely in their progress, their training needs, and their publication record. I actively encourage students to publish during their PhD, and many of my graduates have done so.
+
+My recent graduates have gone on to academic positions in Scotland, England, China, and Korea — a reflection of the international reach of the research we do here.
+
+## Funding
+
+Funding may be available through the University of Stirling's scholarship schemes and, depending on the topic, through my own research projects. I would encourage prospective students to check the [University of Stirling scholarships page](https://www.stir.ac.uk/research/graduate-school/scholarships/) and to get in touch with me directly to discuss their research ideas — knowing your area helps me identify whether relevant funding exists.
+
+## Research Areas I Supervise
+
+I am happy to talk to anyone interested in pursuing a PhD in economics, particularly in the following areas:
+
+- Consumer choice behaviour and food
+- Risk perception and communication
+- Nudges, information, and behaviour change
+- Economic evaluation in healthcare
+- Financial decision-making
+- Discrete choice experiments and choice modelling
+- Survey design and methodologies
+
+I am also happy to discuss other ideas at an early stage — if you are unsure whether your idea fits, just get in touch.
+
+## Current Students
+
+```{=html}
+<div class="student-section">
+  <div class="student-item">Areej Riaz <span>— Financial decision-making and mental health</span></div>
+  <div class="student-item">Isaac Atanga <span>— Geopolitical Risk: Examining the Incidence and Impact of Geopolitical Risk Uncertainty in Africa</span></div>
+</div>
+```
+
+## Recent Graduates
+
+```{=html}
+<div class="student-section">
+  <div class="student-item">Kavya Parthasarathy, 2025 <span>— Time-critical decision-making</span></div>
+  <div class="student-item">Jeon Chulhyun, 2025 <span>— Valuing non-market ecosystem services of natural resources in Korea</span></div>
+  <div class="student-item">Madalina Radu, 2024 <span>— Food risk perceptions, communication and consumer behaviour</span></div>
+  <div class="student-item">Hanjin Li, 2021 <span>— Financial decision-making and choice modelling</span></div>
+  <div class="student-item">Elizabeth Lemmon, 2019 <span>— Social healthcare</span></div>
+  <div class="student-item">Marta Odendal, 2015 <span>— Education choice</span></div>
+</div>
+```
+
+## Get in Touch
+
+Send me a brief note outlining your research idea and your background at [seda.erdem@stir.ac.uk](mailto:seda.erdem@stir.ac.uk). I am always happy to have an initial conversation.

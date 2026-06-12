@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: article
+---
+
+```{=html}
+<div class="hero">
+  <div>
+    <img src="images/photo.jpg" alt="Seda Erdem" class="hero-photo"
+         onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+    <div class="hero-photo-placeholder" style="display:none">SE</div>
+  </div>
+  <div>
+    <h1 class="hero-name">Seda Erdem</h1>
+    <p class="hero-role">Professor of Economics · Head of Economics Division</p>
+    <p class="hero-role">Member, Stirling Behavioural Science Centre</p>
+    <p class="hero-inst">Stirling Business School · University of Stirling · UK</p>
+    <p class="contact-row">
+      📧 <a href="mailto:seda.erdem@stir.ac.uk">seda.erdem@stir.ac.uk</a>
+      &nbsp;·&nbsp;
+      ☎️ +44 (0)1786 46 7478
+    </p>
+    <div class="social-row">
+      <a class="social-btn" href="https://scholar.google.com/citations?user=yhv9YbwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+      <a class="social-btn" href="https://orcid.org/0000-0002-4296-5834" target="_blank">ORCID</a>
+      <a class="social-btn" href="https://www.linkedin.com/in/serdem/" target="_blank">LinkedIn</a>
+      <a class="social-btn" href="https://github.com/sedaerdem" target="_blank">GitHub</a>
+    </div>
+  </div>
+</div>
+```
+
+## News & Updates
+
+```{=html}
+<div>
+  <div class="news-item"><strong>Forthcoming</strong> — New paper in <em>Journal of Behavioural and Experimental Economics</em>: Prompting Food Safety Responsibility (with Radu &amp; Campbell).</div>
+  <div class="news-item"><strong>2026</strong> — Published in <em>Acta Psychologica</em>: Economic Valuation of Psychological Processes in Chronic Disease Management.</div>
+  <div class="news-item"><strong>2025–2026</strong> — British Council project on community-driven nature-based solutions in Malaysian aquaculture (PI).</div>
+</div>
+```
