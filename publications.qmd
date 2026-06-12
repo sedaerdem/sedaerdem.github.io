@@ -1,6 +1,11 @@
 ---
 title: "Publications"
+toc: true
+toc-location: left
+toc-depth: 2
+toc-title: "On this page"
 ---
+## Publications
 
 ```{=html}
 <div class="pub-year">Forthcoming</div>

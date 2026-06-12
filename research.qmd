@@ -1,6 +1,12 @@
 ---
 title: "Research"
+toc: true
+toc-location: left
+toc-depth: 2
+toc-title: "On this page"
 ---
+
+## Research Interests
 
 My research draws on applied microeconomics and behavioural economics, with applications in public health, food choices, and consumer behaviour. I focus on understanding how individuals form preferences, perceive risk, and make decisions across consumption, health, financial, and policy contexts — and on applying and advancing the stated preference methods needed to measure these processes rigorously (including work on preference heterogeneity, attribute non-attendance, decision heuristics, position bias, and experimental design).
 
@@ -44,13 +50,13 @@ A thread running through this work is methodological. I apply and advance discre
 
   <div class="project">
     <div class="project-logo">
-      <img src="images/BCISPF.png" alt="British Council International Science Partnership Fund (ISPF)"
+      <img src="images/BCISPF.png" alt="British Council"
            onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">
-      <span class="project-logo-text" style="display:none">British Council International Science Partnership Fund (ISPF)</span>
+      <span class="project-logo-text" style="display:none">British Council</span>
     </div>
     <div class="project-body">
       <p class="project-title">Community-Driven Nature-Based Solutions for Environmental Sustainability in Malaysian Aquaculture</p>
-      <p class="project-meta">British Council ISPF &nbsp;·&nbsp; 2025–2026 <span class="role">Principal Investigator</span></p>
+      <p class="project-meta">British Council &nbsp;·&nbsp; 2025–2026 <span class="role">Principal Investigator</span></p>
       <p class="project-desc">Working with aquaculture communities in Malaysia to co-develop nature-based solutions that improve environmental sustainability in fish farming systems, integrating community knowledge with scientific approaches to deliver locally relevant outcomes.</p>
     </div>
   </div>
@@ -94,7 +100,8 @@ A thread running through this work is methodological. I apply and advance discre
     </div>
   </div>
 
-   <div class="project">
+
+  <div class="project">
     <div class="project-logo">
       <img src="images/hf.png" alt="Health Foundation"
            onerror="this.style.display='none';this.nextElementSibling.style.display='inline-block'">

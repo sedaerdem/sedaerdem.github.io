@@ -19,7 +19,7 @@ website:
         text: Publications
       - href: teaching.qmd
         text: Teaching
-      - href: phd.qmd
+      - href: students.qmd
         text: PhD Supervision
   page-footer:
     border: true

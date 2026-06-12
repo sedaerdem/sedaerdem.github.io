@@ -1,5 +1,9 @@
 ---
 title: "PhD Supervision"
+toc: true
+toc-location: left
+toc-depth: 2
+toc-title: "On this page"
 ---
 
 I welcome enquiries from prospective PhD students interested in any of my research areas. My approach to supervision is hands-on and flexible — I meet students as often as needed rather than on a fixed schedule, and I care as much about their development as researchers as about the thesis itself. I expect students to work hard and engage seriously with their research, and in return I invest genuinely in their progress, their training needs, and their publication record. I actively encourage students to publish during their PhD, and many of my graduates have done so.

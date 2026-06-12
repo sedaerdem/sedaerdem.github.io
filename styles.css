@@ -346,3 +346,31 @@ strong { color: var(--ink); font-weight: 600; }
   .hero-photo, .hero-photo-placeholder { width: 120px; height: 120px; }
   .hero-name { font-size: 1.9rem; }
 }
+
+/* ── Left TOC ── */
+#TOC {
+  font-size: 0.8rem;
+  padding: 0.5rem 0;
+}
+#TOC .toc-title {
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+#TOC ul { list-style: none; padding: 0; margin: 0; }
+#TOC li { margin: 0; }
+#TOC a {
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-decoration: none;
+  display: block;
+  padding: 0.25rem 0.5rem;
+  border-left: 2px solid transparent;
+  transition: all 0.15s;
+  line-height: 1.4;
+}
+#TOC a:hover { color: var(--navy); border-left-color: var(--navy-lt); }
+#TOC a.active { color: var(--navy); border-left-color: var(--navy); font-weight: 500; }
