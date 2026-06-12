@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - CNAME
 website:
   title: "Seda Erdem"
   google-analytics: "G-PNH6THDLMJ"
