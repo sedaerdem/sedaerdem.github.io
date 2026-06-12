@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Seda Erdem"
+  google-analytics: "G-PNH6THDLMJ"
   navbar:
     background: white
     foreground: "#1a1a1a"
