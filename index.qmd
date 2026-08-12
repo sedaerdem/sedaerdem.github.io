@@ -13,7 +13,7 @@ page-layout: article
   <div>
     <h1 class="hero-name">Seda Erdem</h1>
     <p class="hero-role">Professor of Economics · Head of Strategy Organisation Analytics and Systems</p>
-    <p class="hero-role">Member, Stirling Behavioural Science Centre</p>
+    <p class="hero-role">Member, Stirling Behavioural Science Research Group </p>
     <p class="hero-inst">Stirling Business School · University of Stirling · UK</p>
     <p class="contact-row">
       📧 <a href="mailto:seda.erdem@stir.ac.uk">seda.erdem@stir.ac.uk</a>
