@@ -2,7 +2,7 @@
 title: "Bio"
 ---
 
-I am Professor of Applied Economics at Stirling Business School, University of Stirling, where I also lead the Economics Division and contribute to the Stirling Behavioural Science Centre. My research draws on applied microeconomics and behavioural economics to understand how people form preferences, perceive risk, and make decisions across food, health, financial, and policy contexts.
+I am Professor of Applied Economics at Stirling Business School, University of Stirling. My research draws on applied microeconomics and behavioural economics to understand how people form preferences, perceive risk, and make decisions across food, health, financial, and policy contexts.
 
 I trained as a resource economist at the University of Massachusetts, Amherst, before completing my PhD at the University of Manchester, where I developed the methodological grounding that has shaped my work ever since: using stated preference techniques to understand what people value when direct observation falls short. At the University of York I applied these methods to healthcare — studying how patients and the public prioritise health service innovations — before bringing that expertise to Stirling.
 
