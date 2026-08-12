@@ -12,7 +12,7 @@ page-layout: article
   </div>
   <div>
     <h1 class="hero-name">Seda Erdem</h1>
-    <p class="hero-role">Professor of Economics · Head of Economics Division</p>
+    <p class="hero-role">Professor of Economics · Head of Strategy Organisation Analytics and Systems</p>
     <p class="hero-role">Member, Stirling Behavioural Science Centre</p>
     <p class="hero-inst">Stirling Business School · University of Stirling · UK</p>
     <p class="contact-row">
@@ -34,8 +34,8 @@ page-layout: article
 
 ```{=html}
 <div>
-  <div class="news-item"><strong>Forthcoming</strong> — New paper in <em>Journal of Behavioural and Experimental Economics</em>: Prompting Food Safety Responsibility (with Radu &amp; Campbell).</div>
-  <div class="news-item"><strong>2026</strong> — Published in <em>Acta Psychologica</em>: Economic Valuation of Psychological Processes in Chronic Disease Management.</div>
-  <div class="news-item"><strong>2025–2026</strong> — British Council project on community-driven nature-based solutions in Malaysian aquaculture (PI).</div>
+  <div class="news-item"><strong>2026</strong> — New paper in <em>Journal of Behavioural and Experimental Economics</em>: Prompting Food Safety Responsibility (with Radu &amp; Campbell).</div>
+  <div class="news-item"><strong>2026</strong> — Published in <em>Acta Psychologica</em>: Economic Valuation of Psychological Processes in Chronic Disease Management (with Tabaei-Aghdaei, Coote, and McColl-Kennedy).</div>
+  <div class="news-item"><strong>2025–2026</strong> — British Council project on community-driven nature-based solutions in Malaysian aquaculture (Principal Investigator).</div>
 </div>
 ```
